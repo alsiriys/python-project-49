@@ -13,16 +13,29 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+<!---->
 
 ```bash
 git clone https://github.com/alsiriys/python-project-49.git
 cd python-project-49
+uv sync
+uv add --dev ruff
 ```
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+<!--
+brain-even
+(https://asciinema.org/a/s9DX7RLPrq9FS5Ew) 
+brain-calc
+(https://asciinema.org/a/XIVbrt4hTYFtJBmy) 
+brain-gcd 
+(https://asciinema.org/a/1sFgMEFXmmmszDeo) 
+brain-progression
+(https://asciinema.org/a/jmuFKvXPCSBjJeym)
+brain-prime
+(https://asciinema.org/a/7H4vqgLFZ4wnRenP)
+-->
 
 ---
 
